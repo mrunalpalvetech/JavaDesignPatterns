@@ -1,4 +1,4 @@
-package com.singletone;
+package com.creational;
 
 import java.util.concurrent.*;
 
